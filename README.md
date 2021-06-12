@@ -1,7 +1,7 @@
 # SecurityProjects
 
 
-# Python3_LDAP_Pull
+## Python3_LDAP_Pull
 
 This is one of the first python scripts I ever officially blogged about (so it may not be exactly very efficient as it's quite old.
 
